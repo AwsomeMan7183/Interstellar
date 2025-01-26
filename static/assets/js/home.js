@@ -176,6 +176,8 @@ document.addEventListener("DOMContentLoaded", event => {
 const SplashT = [
   "v2.zaylovesparker.xyz",
   "As Free As Free Can Get!!!",
+  "I Stole This Btw...",
+  "All Credits Go To Interstellar. Go Find It Your Self!!"
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
