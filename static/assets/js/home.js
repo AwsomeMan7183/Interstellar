@@ -177,7 +177,7 @@ const SplashT = [
   "v2.zaylovesparker.xyz",
   "As Free As Free Can Get!!!",
   "I Stole This Btw...",
-  "All Credits Go To Interstellar. Go Find It Your Self!!"
+  "All Credits Go To Interstellar. v2.zaylovesparker.xyz/credits"
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
